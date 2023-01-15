@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": "file:C:/Users/Administrator.DESKTOP-C6D65RP/Desktop/UniTask",
     "com.unity.collab-proxy": "1.17.6",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.16",

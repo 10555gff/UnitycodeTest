@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "file:C:/Users/Administrator.DESKTOP-C6D65RP/Desktop/UniTask",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.6",
       "depth": 0,
